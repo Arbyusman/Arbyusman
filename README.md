@@ -10,9 +10,9 @@ For You who might be curious about Me:
 🌱 Skills that I have
 * HTML & CSS
 * JavaScript
-* Bootstrap 5
 * ReactJS
 * NextJS
+* Bootstrap 5
 * Tailwind
 * Node js
 * ExpressJS
