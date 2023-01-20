@@ -14,7 +14,6 @@ For You who might be curious about Me:
 * NextJS
 * Bootstrap 5
 * Tailwind
-* Node js
 * ExpressJS
 * Postgresql
 * mysql
