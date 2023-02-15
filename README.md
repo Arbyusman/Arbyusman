@@ -7,9 +7,10 @@ For You who might be curious about Me:
 🔭 I’m currently studying on 
 * Universitas Muhammadiyah Kendari
 
-🌱 Skills that I have
+🌱 Skills that I have.
 * HTML & CSS
 * JavaScript
+* NodeJS
 * ReactJS
 * NextJS
 * Bootstrap 5
