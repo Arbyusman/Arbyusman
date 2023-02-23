@@ -19,6 +19,10 @@ For You who might be curious about Me:
 * Postgresql
 * mysql
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arbyusman&show_icons=true&theme=tokyonight" alt="Arbyusman github stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arbyusman&theme=tokyonight" alt="Arbyusman" />
+</p>
 
 
 📫 How to contact me:
