@@ -23,12 +23,8 @@ For You who might be curious about Me:
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Arbyusman&show_icons=true&theme=tokyonight" alt="Arbyusman github stats"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arbyusman&theme=tokyonight" alt="Arbyusman" />
 </p>
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake -->
 ![](./profile-3d-contrib/github-contribution-grid-snake.svg)
 
 
