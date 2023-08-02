@@ -8,16 +8,18 @@ For You who might be curious about Me:
 * Universitas Muhammadiyah Kendari
 
 🌱 Skills that I have.
-* HTML & CSS
+* Go
 * JavaScript
 * NodeJS
 * ReactJS
 * NextJS
-* Bootstrap 5
-* Tailwind
 * ExpressJS
+* Echo
 * Postgresql
 * mysql
+* HTML & CSS
+* Bootstrap 5
+* Tailwind
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Arbyusman&show_icons=true&theme=tokyonight" alt="Arbyusman github stats"/> -->
