@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Arbiansyah** you can called me **arby**, I am an information technology education student who is interested in **web development**. And I like to share the results of projects that I have made so far.
+I'm **Arbiansyah** you can called me **arby**, I am an information technology education student who is interested in **Web development** and **Backend development**. And I like to share the results of projects that I have made so far.
 
 For You who might be curious about Me:
 
