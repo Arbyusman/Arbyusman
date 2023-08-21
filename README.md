@@ -13,6 +13,8 @@ For You who might be curious about Me:
 * NodeJS
 * ReactJS
 * NextJS
+* Laravel
+* PHP
 * ExpressJS
 * Echo
 * Postgresql
