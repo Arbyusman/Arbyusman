@@ -31,8 +31,8 @@ Beyond my expertise in PHP Laravel, I have strong capabilities in Go and JavaScr
 
 📫 How to contact me:
 * Gmail: arbyusman24@gmail.com
-* Instagram: https://www.instagram.com/arbyusmn/
-* LinkedIn: https://www.linkedin.com/in/arbiansyah-62a640220/
+* Instagram: [https://www.instagram.com/arbyusmn](https://www.instagram.com/arbyusmn)
+* LinkedIn: [https://www.linkedin.com/in/arbiansyahusmn](https://www.linkedin.com/in/arbiansyahusmn)
 
 
 
